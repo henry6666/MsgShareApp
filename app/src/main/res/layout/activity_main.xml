@@ -46,5 +46,10 @@
             app:layout_constraintStart_toStartOf="parent"
             android:layout_marginTop="30dp"
             tools:layout_editor_absoluteY="341dp"/>
+    <Button
+            android:text="Share to other apps"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/btnShareToOtherApps"/>
 
 </LinearLayout>
